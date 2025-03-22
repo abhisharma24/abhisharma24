@@ -1,69 +1,63 @@
-<h1 align="center" style="color:#ffcc00; font-family:'Arial Black', sans-serif; font-size:50px;">
-🚀 Abhi Sharma | DevOps Engineer | AWS Certified Solutions Architect - Professional 🌟
-</h1>
+<!-- Professional GitHub README.md -->
+
+<h1 align="center">Hi, I'm Abhi Sharma 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="300px">
+  <strong>DevOps Engineer | AWS Certified Solutions Architect - Professional</strong>
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Expertise 💻
+## 🚀 About Me
 
-<div align="center">
-  <img src="https://img.shields.io/badge/DevOps-Cloud%20%7C%20Automation%20%7C%20CI/CD-ff69b4?style=for-the-badge" />
-</div>
-
-| 🚀 **Cloud & DevOps** | 🔧 **Infrastructure & CI/CD** | 🔥 **Monitoring & Security** |
-|:----------------------:|:--------------------------:|:--------------------------:|
-| ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) <br> ![Azure](https://img.shields.io/badge/AZURE-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) <br> ![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) <br> ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) <br> ![Terraform](https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white) <br> ![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) <br> ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white) <br> ![ELK](https://img.shields.io/badge/ELK%20Stack-%23007ACC.svg?style=for-the-badge&logo=elastic-stack&logoColor=white) |
+🔹 Experienced **DevOps Engineer** with expertise in **cloud architecture, automation, and CI/CD**.  
+🔹 Specialized in **AWS, Azure, Google Cloud, Kubernetes, Terraform, and Ansible**.  
+🔹 Passionate about **scalability, security, and automation** in cloud infrastructure.  
+🔹 Active **Open Source Contributor** with **100+ Terraform & Ansible modules**.  
+🔹 Helping companies optimize cloud **costs, security, and deployment efficiency**.  
 
 ---
 
-## 🎯 About Me ✨
+## 🛠️ Tech Stack & Expertise
 
-```yaml
-Name: "Abhi Sharma"
-Role: "DevOps Engineer"
-Certifications:
-  - "AWS Certified Solutions Architect - Professional"
-Experience:
-  - "Cloud Infrastructure & DevOps Automation"
-  - "CI/CD Pipelines with Jenkins, GitHub Actions, GitLab CI"
-  - "Kubernetes, Docker, and Cloud-Native Technologies"
-  - "Infrastructure as Code (IaC) with Terraform and Ansible"
-  - "Monitoring & Security with Prometheus, Grafana, ELK"
-```
+### 🌩️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-💡 **Passionate about building scalable, automated, and secure cloud infrastructures!**
+### 🏗️ Infrastructure & CI/CD  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
----
-
-## 📊 GitHub Stats 🚀
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omsharma07&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omsharma07&theme=radical" width="48%" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsharma07&layout=compact&theme=radical" width="48%" alt="Top Languages">
-</p>
+### 🔥 Monitoring & Security  
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white)
 
 ---
 
-## 🌍 Let's Connect!
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/opsstation" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:hello@opsstation.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/omsharma07">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=omsharma07&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omsharma07&theme=radical" width="48%" />
 </p>
 
-🚀 **Transforming Infrastructure, One Automation at a Time!** 🔥
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omsharma07&theme=darkhub" width="80%" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+📧 Email: hello@opsstation.com  
+🔗 LinkedIn: [Opsstation](https://www.linkedin.com/company/opsstation)  
+🐙 GitHub: [Abhi Sharma](https://github.com/omsharma07)  
+🌐 Website: [Syncarcs](https://syncarcs.com)
+
+---
+
+### 🚀 Let's Connect & Build Together!
