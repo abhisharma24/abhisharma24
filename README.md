@@ -1,101 +1,69 @@
-<!-- Cool Animated Intro -->
-<h1 align="center">
-  <span style="
-    font-size: 3em;
-    font-weight: bold;
-    background: linear-gradient(to right, #FF0000, #FF7300, #FFD700, #00FA9A, #1E90FF, #9932CC);
-    -webkit-background-clip: text;
-    color: transparent;
-    animation: glowing 3s infinite alternate;
-  "> 🚀 DevOps Engineer | AWS Certified Solutions Architect - Professional</span>
+<h1 align="center" style="color:#ffcc00; font-family:'Arial Black', sans-serif; font-size:50px;">
+🚀 Abhi Sharma | DevOps Engineer | AWS Certified Solutions Architect - Professional 🌟
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=F97316&center=true&vCenter=true&width=900&height=50&lines=Cloud+%7C+DevOps+%7C+Automation;Kubernetes+%7C+AWS+%7C+Terraform;Continuous+Integration+and+Deployment;Scaling+Secure+Infrastructure;Obsessed+with+Efficiency+and+Automation" />
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="300px">
 </p>
 
 ---
 
-## 🎨 **🔥 Tech Stack & Expertise**
-<div align="center">
-
-<table>
-  <tr>
-    <th style="color:#FF5733; font-size:1.7em;">☁️ Cloud & DevOps</th>
-    <th style="color:#57FF00; font-size:1.7em;">🔧 Infrastructure & CI/CD</th>
-    <th style="color:#00D4FF; font-size:1.7em;">🔥 Monitoring & Security</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-      <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-      <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
-      <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-      <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 📊 **🚀 GitHub Stats**
+## 🛠️ Tech Stack & Expertise 💻
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omsharma07&show_icons=true&theme=radical&count_private=true&hide_border=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omsharma07&theme=radical&hide_border=true" width="49%" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/DevOps-Cloud%20%7C%20Automation%20%7C%20CI/CD-ff69b4?style=for-the-badge" />
 </div>
 
----
-
-## 🎯 **🔥 Profile Summary**
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omsharma07&theme=radical" width="100%" alt="Profile Summary" />
-</div>
+| 🚀 **Cloud & DevOps** | 🔧 **Infrastructure & CI/CD** | 🔥 **Monitoring & Security** |
+|:----------------------:|:--------------------------:|:--------------------------:|
+| ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) <br> ![Azure](https://img.shields.io/badge/AZURE-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) <br> ![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) <br> ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) <br> ![Terraform](https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white) <br> ![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) <br> ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white) <br> ![ELK](https://img.shields.io/badge/ELK%20Stack-%23007ACC.svg?style=for-the-badge&logo=elastic-stack&logoColor=white) |
 
 ---
 
-## 🚀 **Contributions & Top Languages**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsharma07&layout=compact&theme=radical&hide_border=true" width="49%" alt="Top Languages" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=omsharma07&limit=5&theme=radical&combine_all_yearly_contributions=true" width="49%" alt="Top Contributions" />
-</div>
+## 🎯 About Me ✨
+
+```yaml
+Name: "Abhi Sharma"
+Role: "DevOps Engineer"
+Certifications:
+  - "AWS Certified Solutions Architect - Professional"
+Experience:
+  - "Cloud Infrastructure & DevOps Automation"
+  - "CI/CD Pipelines with Jenkins, GitHub Actions, GitLab CI"
+  - "Kubernetes, Docker, and Cloud-Native Technologies"
+  - "Infrastructure as Code (IaC) with Terraform and Ansible"
+  - "Monitoring & Security with Prometheus, Grafana, ELK"
+```
+
+💡 **Passionate about building scalable, automated, and secure cloud infrastructures!**
 
 ---
 
-## 🎯 **🚀 Projects & Achievements**
-- 🚀 **Over 100+ public modules** for Terraform, Ansible, DevOps scripting  
-- 🏆 **Expert in CI/CD Pipelines** - Jenkins, GitHub Actions, GitLab CI, Azure DevOps  
-- ☁️ **Worked with AWS, Azure, GCP, Kubernetes, and Serverless Technologies**  
-- 🔥 **Infrastructure as Code (IaC) Expert** - Terraform, CloudFormation, Bicep  
-- 🔒 **Security Hardening & Cost Optimization** in cloud environments  
-- 📊 **Monitoring & Observability** using Grafana, Prometheus, ELK stack  
+## 📊 GitHub Stats 🚀
 
----
-
-## 📬 **🌟 Connect with Me**
 <p align="center">
-  <a href="https://www.linkedin.com/in/omsharma07/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/omsharma07" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=omsharma07&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omsharma07&theme=radical" width="48%" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsharma07&layout=compact&theme=radical" width="48%" alt="Top Languages">
+</p>
+
+---
+
+## 🌍 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/opsstation" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:hello@opsstation.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/omsharma07">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
----
-
-🌟 **Let’s build something amazing together!** 🚀
+🚀 **Transforming Infrastructure, One Automation at a Time!** 🔥
