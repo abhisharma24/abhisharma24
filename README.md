@@ -60,11 +60,10 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=abhisharma26&show_icons=true&theme=radical" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisharma26&theme=radical" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhisharma24&show_icons=true&theme=radical" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisharma24&theme=radical" height="180px" />
+</div>
 
 ---
 
