@@ -2,8 +2,25 @@
 
 # 🚀 **Abhi Sharma**  
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=DevOps+Engineer+🔥;AWS+Certified+Solutions+Architect+-+Professional+🚀;Automation+%7C+Cloud+%7C+CI%2FCD+%7C+Security+%7C+Infrastructure+as+Code" />
+  <span style="display:block; font-size: 45px; font-weight: bold; font-family: 'Arial', sans-serif;">
+    <span style="background: linear-gradient(90deg, #ff4b1f, #ff9068); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+      🚀 DevOps Engineer
+    </span>
+  </span>
+
+  <span style="display:block; font-size: 40px; font-weight: bold; font-family: 'Arial', sans-serif;">
+    <span style="background: linear-gradient(90deg, #1f4037, #99f2c8); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+      🌍 AWS Certified Solutions Architect - Professional
+    </span>
+  </span>
+
+  <span style="display:block; font-size: 35px; font-weight: bold; font-family: 'Arial', sans-serif;">
+    <span style="background: linear-gradient(90deg, #3a1c71, #d76d77, #ffaf7b); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+      💡 Automation | CI/CD | Cloud | Security | Infrastructure as Code
+    </span>
+  </span>
 </h1>
+
 
 
 🌍 Passionate about **Cloud, Automation, and Scalable Architectures** to optimize infrastructure and streamline deployments.  
