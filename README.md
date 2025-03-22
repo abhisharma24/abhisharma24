@@ -62,17 +62,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=abhisharma07&show_icons=true&theme=radical" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisharma07&theme=radical" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=abhisharma26&show_icons=true&theme=radical" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisharma26&theme=radical" />
 </p>
 
 ---
 
-## 🔗 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhi%20Sharma-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abhisharma07)
-[![GitHub](https://img.shields.io/badge/GitHub-Abhi%20Sharma-lightgray?style=for-the-badge&logo=github)](https://github.com/abhisharma07)
-
----
+### 📫 **Let's Connect**
+💼 **LinkedIn:** [Abhi Sharma](https://www.linkedin.com/in/www.linkedin.com/in/abhi-sharma24)  
+🐙 **GitHub:** [Abhi Sharma](https://github.com/AbhiSharma26)  
 
 ## 🏆 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=abhisharma07&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=abhisharma26&label=Profile%20Views&color=0e75b6&style=flat)
