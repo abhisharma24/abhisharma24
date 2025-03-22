@@ -2,25 +2,23 @@
 
 # 🚀 **Abhi Sharma**  
 <h1 align="center">
-  <span style="display:block; font-size: 45px; font-weight: bold; font-family: 'Arial', sans-serif;">
-    <span style="background: linear-gradient(90deg, #ff4b1f, #ff9068); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-      🚀 DevOps Engineer
-    </span>
-  </span>
-
-  <span style="display:block; font-size: 40px; font-weight: bold; font-family: 'Arial', sans-serif;">
-    <span style="background: linear-gradient(90deg, #1f4037, #99f2c8); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-      🌍 AWS Certified Solutions Architect - Professional
-    </span>
-  </span>
-
-  <span style="display:block; font-size: 35px; font-weight: bold; font-family: 'Arial', sans-serif;">
-    <span style="background: linear-gradient(90deg, #3a1c71, #d76d77, #ffaf7b); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-      💡 Automation | CI/CD | Cloud | Security | Infrastructure as Code
-    </span>
-  </span>
+  <svg viewBox="0 0 960 300">
+    <text x="50%" y="50%" font-size="60" font-weight="bold" text-anchor="middle" fill="url(#grad1)">
+      DevOps Engineer | AWS Certified Solutions Architect - Professional
+    </text>
+    
+    <defs>
+      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#ff4b1f; stop-opacity:1">
+          <animate attributeName="stop-color" values="#ff4b1f; #ff9068; #ff4b1f" dur="3s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" style="stop-color:#1f4037; stop-opacity:1">
+          <animate attributeName="stop-color" values="#1f4037; #99f2c8; #1f4037" dur="3s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+  </svg>
 </h1>
-
 
 
 🌍 Passionate about **Cloud, Automation, and Scalable Architectures** to optimize infrastructure and streamline deployments.  
